@@ -355,7 +355,7 @@ when DF is first loaded, when a game is loaded, and when a game is unloaded.
 
 Init scripts function the same way they would if the user manually typed
 in their contents, but are much more convenient.  In order to facilitate
-savegave portability, mod merging, and general organization of init files,
+savegame portability, mod merging, and general organization of init files,
 DFHack supports multiple init files both in the main DF directory and
 save-specific init files in the save folders.
 
